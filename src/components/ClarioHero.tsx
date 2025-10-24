@@ -77,7 +77,7 @@ function AnalyzingText() {
 }
 
 /* 🔹 Full hero section */
-export default function ClarioHero3D() {
+export default function ClarioHero3D () {
   return (
     <section className="relative min-h-screen w-full bg-[#0e0f14] text-white overflow-hidden">
       {/* Top nav */}
